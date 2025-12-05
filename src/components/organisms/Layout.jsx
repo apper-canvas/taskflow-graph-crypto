@@ -79,10 +79,10 @@ const Layout = () => {
         </div>
 
         {/* Main Content */}
-        <div className="flex-1 lg:ml-0">
+<div className="flex-1 lg:ml-0">
           {/* Mobile Header */}
 <div className="lg:hidden bg-surface border-b border-gray-200 px-4 py-3 flex items-center justify-between">
-            <h1 className="text-xl font-bold text-gray-900">TaskFlow Ultra Pro</h1>
+            <h1 className="text-xl font-bold text-gray-900">TaskFlow Ultra Pro Max</h1>
             <button
               onClick={() => setSidebarOpen(true)}
               className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
